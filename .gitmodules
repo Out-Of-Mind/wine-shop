@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Out-Of-Mind/wine-shop-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Out-Of-Mind/wine-shop-frontend.git
